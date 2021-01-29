@@ -29,21 +29,17 @@ To deploy this website, simply follow this [link](http:) or enter the following 
 
 Here's a desktop image of the navigation bar, as well as part of the large background image dividing the navigation bar and the main content of the page: 
 
-![ss-desktop-top]
-(assets/images/ss-desktop-top.png)
+![ss-desktop-top](assets/images/ss-desktop-top.png)
 
 Here's a little further down the page:
 
-![ss-desktop-main]
-(assets/images/ss-desktop-main.png)
+![ss-desktop-main](assets/images/ss-desktop-main.png)
 
 Here's a mobile image of the navigation bar, the dividing background image, and some of the main content: 
 
-![ss-phone-top]
-(assets/images/ss-phone-top.png)
+![ss-phone-top](assets/images/ss-phone-top.png)
 
 Here's a little further down the page: 
 
-![ss-phone-main]
-(assets/images/ss-phone-main.png)
+![ss-phone-main](assets/images/ss-phone-main.png)
 
