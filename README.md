@@ -23,7 +23,7 @@ Third, and related to the second CSS task, I added a @media rule to ensure that 
 Finally, I added comments to the CSS page so that anyone else navigating their way around the source code will have an easier time distinguishing between the CSS selectors and their functions. 
 
 ## Deployment
-To deploy this website, simply follow this [link](http:) or enter the following into your address bar: http:
+To deploy this website, simply follow this [link](https://rflctveq.github.io/refactored-code/) or enter the following into your address bar: https://rflctveq.github.io/refactored-code/. 
 
 ## Screenshots
 
