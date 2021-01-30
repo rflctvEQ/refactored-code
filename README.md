@@ -5,11 +5,13 @@
 As the title of the repository suggests, I have simply refactored the source code for Horiseon's homepage.
 
 ### HTML edits
-First, I went through the HTML page and edited the semantic tags to be more description rather than simple `<div>` tags. 
+First, I cleaned up the formatting of the HTML page. This included altering what was indented, and the purpose of this was to make the HTML easier to read and work on.
 
-Second, I added `<alt>` attributes for each of the anchored images, and I added a `<title>` attribute to the background image dividing the navigation bar and the main content on the page. 
+Second, I went through the HTML page and edited the semantic tags to be more descriptive than the previous `<div>` tags. 
 
-Third, I fixed the navbar links so that they directed the user to the appropriate section on the page. 
+Third, I added `<alt>` attributes for each of the anchored images, and I added a `<title>` attribute to the background image dividing the navigation bar and the main content on the page. 
+
+Fourth, I fixed the navigation bar links so that they directed the user to the appropriate section on the page. 
 
 Finally, I added comments to the HTML page so that anyone else navigating their way around the source code will have an easier time distinguishing between the HTML elements and their functions. 
 
